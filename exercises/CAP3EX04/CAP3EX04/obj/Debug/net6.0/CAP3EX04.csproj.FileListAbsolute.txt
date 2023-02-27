@@ -1,0 +1,15 @@
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\bin\Debug\net6.0\CAP3EX04.exe
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\bin\Debug\net6.0\CAP3EX04.deps.json
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\bin\Debug\net6.0\CAP3EX04.runtimeconfig.json
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\bin\Debug\net6.0\CAP3EX04.dll
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\bin\Debug\net6.0\CAP3EX04.pdb
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\CAP3EX04.csproj.AssemblyReference.cache
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\CAP3EX04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\CAP3EX04.AssemblyInfoInputs.cache
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\CAP3EX04.AssemblyInfo.cs
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\CAP3EX04.csproj.CoreCompileInputs.cache
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\CAP3EX04.dll
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\refint\CAP3EX04.dll
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\CAP3EX04.pdb
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\CAP3EX04.genruntimeconfig.cache
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP3EX04\CAP3EX04\obj\Debug\net6.0\ref\CAP3EX04.dll

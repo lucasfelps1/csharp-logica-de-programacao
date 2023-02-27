@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CAP3EX05/1.0.0": {
+        "runtime": {
+          "CAP3EX05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAP3EX05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
