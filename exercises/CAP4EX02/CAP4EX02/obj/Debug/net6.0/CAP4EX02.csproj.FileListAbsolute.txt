@@ -1,0 +1,15 @@
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\bin\Debug\net6.0\CAP4EX02.exe
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\bin\Debug\net6.0\CAP4EX02.deps.json
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\bin\Debug\net6.0\CAP4EX02.runtimeconfig.json
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\bin\Debug\net6.0\CAP4EX02.dll
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\bin\Debug\net6.0\CAP4EX02.pdb
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\CAP4EX02.csproj.AssemblyReference.cache
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\CAP4EX02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\CAP4EX02.AssemblyInfoInputs.cache
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\CAP4EX02.AssemblyInfo.cs
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\CAP4EX02.csproj.CoreCompileInputs.cache
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\CAP4EX02.dll
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\refint\CAP4EX02.dll
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\CAP4EX02.pdb
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\CAP4EX02.genruntimeconfig.cache
+C:\Users\poaluc36\Desktop\csharp-start\exercises\CAP4EX02\CAP4EX02\obj\Debug\net6.0\ref\CAP4EX02.dll
